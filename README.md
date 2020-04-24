@@ -20,3 +20,7 @@ Personal Trello: https://trello.com/b/5bXKrabh/harvard-cs50x
 - Must use at least one conditional, one loop, and one variable.
 
 - Must use at least one sound.
+
+![scratch](https://media.giphy.com/media/kE8QHzWLu1mI8/giphy.gif)
+
+--------------------------------------------------------------------------------------------

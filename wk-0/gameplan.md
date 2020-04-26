@@ -2,20 +2,20 @@
  -------------------------------------------------
 <i>Week-0</i> 
 
-<b>Description:</b> KIRBY IS HERE IN SCRATCH! HELP HIM FEND OFF INCOMING PROJECTILES!
+<b>Description:</b> MEGAMAN IS HERE IN SCRATCH! HELP HIM FEND OFF INCOMING PROJECTILES!
 
 -------------------------------------------------
 
-<b>Sprites:</b> Kirby (ver.1 & ver.2), Projectile (TBD)
+<b>Sprites:</b> Mega Man (ver.1 & ver.2), Projectile (TBD)
 
-<b>Scripts:</b> Moving projectiles, Kirby Reaction/State, and Contact w/Projectile
+<b>Scripts:</b> Moving projectiles, Mega Man Reaction/State, and Contact w/Projectile
 
 <b>Conditional:</b> If projectile is hit first, if projectile hits first
 
 <b>Loop:</b> Moving projectiles until... TBD
 
-<b>Variable:</b> State of Kirby. (Activation)
-  - State of Kirby will be whether or not ver.1 or ver.2 of Kirby Sprite is visible.
+<b>Variable:</b> State of Mega Man. (Activation)
+  - State of Mega Man will be whether or not ver.1 or ver.2 of Mega Man Sprite is visible.
   - var activated = boolean. 
 
 <b>Sound:</b> Smack/Punching noise on contact. 
@@ -28,18 +28,18 @@
  if projectile is hit
    projectile vanishes
  else projectile hits
-   kirby moves back
+   Mega Man moves back
 
-<b>Kirby Reaction/State:</b>
+<b>Mega Man Reaction/State:</b>
 
- if Kirby is not 'activated' (false)
-   ver.1 Kirby stays still
- else if Kirby is 'activated' (true)
-   ver.2 Kirby is put in place
+ if Mega Man is not 'activated' (false)
+   ver.1 Mega Man stays still
+ else if Mega Man is 'activated' (true)
+   ver.2 Mega Man is put in place
 
 <b>Moving Projectiles:</b>
 
  if green flag is clicked
-   projectiles move towards Kirby
+   projectiles move towards Mega Man
  else
    do nothing.

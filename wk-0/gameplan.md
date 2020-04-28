@@ -43,3 +43,11 @@
    projectiles move towards Mega Man
  else
    do nothing.
+
+
+
+<b>O.P.</b>
+
+- set sprite size on start.
+- defined sprite start place.
+- created horizontal movement script. 

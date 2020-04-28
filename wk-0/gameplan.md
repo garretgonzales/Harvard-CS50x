@@ -50,4 +50,4 @@
 
 - set sprite size on start.
 - defined sprite start place.
-- created horizontal movement script. 
+- created horizontal movement script.
